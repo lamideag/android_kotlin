@@ -1,4 +1,4 @@
-package com.lamineml.myapplication
+package com.lamineml.lamine
 
 import org.junit.Test
 

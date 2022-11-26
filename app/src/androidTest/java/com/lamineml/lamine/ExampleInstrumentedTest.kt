@@ -1,4 +1,4 @@
-package com.lamineml.myapplication
+package com.lamineml.lamine
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
